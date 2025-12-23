@@ -1,0 +1,20 @@
+{
+  "name": "espaco-acolher-api",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@trpc/server": "11.7.2",
+    "cookie": "^1.0.2",
+    "dotenv": "^16.4.7",
+    "drizzle-orm": "^0.44.5",
+    "express": "^4.21.2",
+    "jose": "6.1.0",
+    "mysql2": "^3.15.0",
+    "postgres": "^3.4.5",
+    "superjson": "^1.13.3",
+    "zod": "^4.1.12"
+  }
+}
